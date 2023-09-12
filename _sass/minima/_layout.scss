@@ -1,5 +1,6 @@
 .site-header {
   border-bottom: 1px solid $grey-color-light;
+  box-shadow: 0 0 4px 0 rgba(0,0,0,.3);
 
   .header-wrapper {
     display: flex;
@@ -70,45 +71,45 @@
 
 
 footer {
-  .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: 1.4em 0;
+  border-top: 1px solid $grey-color-light;
+  box-shadow: 0 0 4px 0 rgba(0,0,0,.3);
 
-    .footer-col-wrapper {
-      @include relative-font-size(0.9375);
+  padding: 1.4em 0;
 
-      display: grid;
-      grid-template-columns: 1fr max-content;
+  .footer-col-wrapper {
+    @include relative-font-size(0.9375);
+
+    display: grid;
+    grid-template-columns: 1fr max-content;
+  }
+
+  .footer-col {
+    color: $grey-color;
+
+    &.left-align {
+      text-align: left;
+    }
+    &.right-align {
+      text-align: right;
+    }
+    &.vertical-space {
+      padding: 0.6em 0;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      p {
+        margin-bottom: 0;
+      }
     }
 
-    .footer-col {
-      color: $grey-color;
+    .social-media-list {
+      list-style: none;
+      margin: 0;
 
-      &.left-align {
-        text-align: left;
-      }
-      &.right-align {
-        text-align: right;
-      }
-      &.vertical-space {
-        padding: 0.6em 0;
-
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-
-        p {
-          margin-bottom: 0;
-        }
-      }
-
-      .social-media-list {
-        list-style: none;
-        margin: 0;
-
-        li a svg {
-          margin-top: 1px;
-        }
+      li a svg {
+        margin-top: 1px;
       }
     }
   }
