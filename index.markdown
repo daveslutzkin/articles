@@ -21,6 +21,8 @@ I get a lot of energy from helping founders so feel free to reach out, let's do 
 * Mentoring CTOs to improve their communication, management skills, and business understanding.
 * Helping with org structure as the engineering/product team is growing.
 
+<br/>
+
 You don't have to get me in to help, though!
 
 Founders starting tech companies have bunch of **common questions**. I've answered some of them here:
