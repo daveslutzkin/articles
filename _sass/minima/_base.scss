@@ -24,9 +24,16 @@ body {
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+
+  height: 100vh;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr auto;
+
+  &> main {
+    overflow: auto;
+  }
 }
 
 
@@ -81,6 +88,10 @@ figcaption {
  */
 ul, ol {
   margin-left: $spacing-unit;
+
+  li {
+    margin-bottom: 0.6em;
+  }
 }
 
 li {
@@ -166,6 +177,7 @@ pre {
   overflow-x: auto;
 
   > code {
+    white-space: break-spaces;
     border: 0;
     padding-right: 0;
     padding-left: 0;
