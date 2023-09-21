@@ -10,7 +10,7 @@ This goes through that history in nauseating detail; congrats if you get through
 
 I started coding with Applesoft BASIC on my late 80s Apple IIe (green screen!). That was a long time ago.
 
-Since then I've coded professionally in many, many languages:
+Since then I've coded professionally in many, many languages and frameworks:
 
     C/C++, Java, Fortran, Haskell, PHP, Ruby, Python, JavaScript/TypeScript, Elm, Bash, Terraform, React, React Native, Vue, Objective C, Swift, etc etc etc
 
@@ -26,7 +26,7 @@ Also I was CTO of the **SitePoint Group** for a while, which was making sure tha
 
 Then I joined **Versent**, a consulting company, as a very early employee and created **[Stax](https://www.stax.io/)**, an AWS cloud management platform (B2B SaaS). We were building this in parallel with the growth of the professional services firm, and took it to a million ARR in a year or so. I was the GM in charge of it, so similar to Flippa I formulated the strategy, built out the product and the engineering team around it, and did a bunch of the go-to-market myself (sales, CPC campaigns).
 
-More recently I co-founded **[Steppen](https://apps.apple.com/au/app/steppen-genz-health-fitness/id1568032711)**, a fitness app helping Gen Z women build healthy fitness habits. I built this out from scratch, hiring an engineering team, and scaling the app to hundreds of thousands of users. We raised money from some great investors but ultimately couldn't make the app work - fitness is a hard space.
+More recently I co-founded **[Steppen](https://apps.apple.com/au/app/steppen-genz-health-fitness/id1568032711)** as CTO, a fitness app helping Gen Z women build healthy fitness habits. I built this out from scratch, hiring an engineering team, and scaling the app to hundreds of thousands of users. We raised money from some great investors but ultimately couldn't make it as big as we wanted - fitness is a hard space. We got a successful exit, selling Steppen to Alta.
 
 So I still code a lot, I wrote almost all the code for Steppen, learning React Native and mobile app development quickly from zero knowledge.
 
@@ -34,4 +34,4 @@ But I'm also extremely comfortable hiring people, managing people and building h
 
 And I have breadth across product, marketing, customer support, sales, business strategy.
 
-The main reason I love startups is because I can use all of this varied skillset.
+The main reason I love the startup space is because I can use this whole varied skillset.
